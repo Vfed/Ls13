@@ -55,6 +55,7 @@ namespace Ls13
                 }
             } while (s < mas.GetLength(0));
             //4
+            
 
         }
     }
